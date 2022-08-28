@@ -9,3 +9,6 @@ In this HW I have created a portfolio that includes:
 
 ## Screenshot Example
 ![](./Assets/Screenshot-portfolio.png)
+
+## Deployed Link
+[Deployed Link](https://davidpascual2.github.io/Portfolio-HW2/)

@@ -129,8 +129,9 @@ main {
 }
 
 @media screen and (min-width: 1024px) {
-     #about-me-section{
-         flex-direction: row;
+     .jumbotron {
+         width: 100rem;
+         align-self: flex-end;
         
     }
 }
